@@ -1,30 +1,36 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+## Day1: started challenge and made Caffeinism-Hub
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### About my Challenge
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+Today I decided to start two new challenges.
 
-**Link to work:** [Calculator App](http://www.example.com)
+First, and finally, I joined 100 Days Of Code community!
+I'm so interested in it, but I hesitated. Now I made up my mind to write code everyday in 100 days 💻
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+Second, I'll try to participate this challenge in English.
+I'm a not native English speaker, and I've never tried to communicate in English, or other my non native language.
+It means I lost my opportunity to find great friend. Sad😭
+So I'll go for it! 🔥
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+I have my twitter account here → https://twitter.com/caffeinism_tech
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+I want to become friend with you🥳
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Caffeinism-Hub
 
+I love JavaScript, and HTML, CSS.
+And I have made "Caffeinism-Hub" in this two weeks, so I start 100 Day Of Code challenge with this project!
 
-### Day 1: June 27, Monday
+https://github.com/routine-works/caffeinism-hub
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+I made only frontend and implemented only few features. (README is empty now, I must fill it)
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+I want to make these features👇
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+- [] user can post image
+- [] input field is hidden, but if user click "make post" button, field is display
+- [] responsive design
+- [] make emoji display more cool
+- [] make input field larger
