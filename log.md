@@ -29,8 +29,28 @@ I made only frontend and implemented only few features. (README is empty now, I 
 
 I want to make these features👇
 
-- [] user can post image
-- [] input field is hidden, but if user click "make post" button, field is display
-- [] responsive design
-- [] make emoji display more cool
-- [] make input field larger
+- [ ] user can post image
+- [ ] input field is hidden, but if user click "make post" button, field is display
+- [ ] responsive design
+- [ ] make emoji display more cool
+- [ ] make input field larger
+
+## Day2: making Caffeinism-Hub
+
+https://github.com/routine-works/caffeinism-hub
+
+Today, I modified code little.
+
+- modify generate random text setting more "caffeinism"
+- changed CSS properties order
+  https://zenn.dev/web_tips/articles/f1167f4314dcb3
+
+- [ ] user can post image
+- [ ] input field is hidden, but if user click "make post" button, field is display
+- [ ] responsive design
+- [x] make emoji display more cool
+- [ ] make input field larger
+
+A big progress is the Changing of emoji display.
+Now there are always shown, expect user don't post any feeling.
+User's feeling is described as a big emoji!
