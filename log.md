@@ -54,3 +54,16 @@ Today, I modified code little.
 A big progress is the Changing of emoji display.
 Now there are always shown, expect user don't post any feeling.
 User's feeling is described as a big emoji!
+
+## Day3: making Caffeinism-Hub function
+
+Today, my code doesn't work.
+
+I'm trying to make the function that user can post there own image, but I can't finish it.
+I think If I spend a little bit time, maybe It can be solve... but I am too sleepy😪 lol
+
+- [ ] user can post image → in progress 💨
+- [ ] input field is hidden, but if user click "make post" button, field is display
+- [ ] responsive design
+- [x] make emoji display more cool
+- [ ] make input field larger
