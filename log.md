@@ -67,3 +67,25 @@ I think If I spend a little bit time, maybe It can be solve... but I am too slee
 - [ ] responsive design
 - [x] make emoji display more cool
 - [ ] make input field larger
+
+## Day4: making modules in Caffeinism-Hub
+
+Today, I could solve yesterday's mystery! Now user's post image function is available😉
+I must generate src data, but I was making tag data and set it as src. lol
+
+It is a simple mistake, but I can't find easily.
+So I started to fix my spaghetti code🍝
+
+I think I can use import & export notation, and add new file "dataStore. But it throw error:(
+I googled it and find it CORS error.
+
+I couldn't fix it. Tomorrow's assignment.
+
+Should I build server?🤔
+
+- [ ] divide files into modules
+- [ ] input field is hidden, but if user click "make post" button, field is display
+- [ ] make input field larger
+- [ ] responsive design
+- [x] user can post image
+- [x] make emoji display more cool
