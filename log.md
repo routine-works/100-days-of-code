@@ -89,3 +89,11 @@ Should I build server?🤔
 - [ ] responsive design
 - [x] user can post image
 - [x] make emoji display more cool
+
+## Day5: trying node
+
+I have taken rest for 2 days because of mental breakdown🤒 I'm going to restart coding days!
+
+Today, I tried to use node. I could install, but not working because of window object can't use in node environments.
+How can I use window.prompt? How can I add event?
+I mast search and think about it more and more...
