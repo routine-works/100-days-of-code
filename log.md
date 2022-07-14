@@ -97,3 +97,14 @@ I have taken rest for 2 days because of mental breakdown🤒 I'm going to restar
 Today, I tried to use node. I could install, but not working because of window object can't use in node environments.
 How can I use window.prompt? How can I add event?
 I mast search and think about it more and more...
+
+## Day6: playing with GAS
+
+I have wanted flush card application for a long time. But I can't find useful app.
+So I decided to make it myself! 
+
+Making Caffeinism-Hub is so much fun, but I temporarily suspend it.
+
+I'm going to use Google spread sheet for it, so also I'm going use GAS.
+
+At work I sometime use GAS and have some skills. I'm excited in improving my skill.
