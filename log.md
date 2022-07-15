@@ -108,3 +108,12 @@ Making Caffeinism-Hub is so much fun, but I temporarily suspend it.
 I'm going to use Google spread sheet for it, so also I'm going use GAS.
 
 At work I sometime use GAS and have some skills. I'm excited in improving my skill.
+
+## Day7: succeed in displaying data
+
+
+I felt asleep before post😅
+Yesterday I succeed in displaying some VSCode short cut from Spread Sheet!
+It can't be called flush card now, so I'll improve this site more nice-looking🎨
+
+[image](image/day7.png)
